@@ -2101,3 +2101,5 @@
  2023-03-16 22:35:16.263194 --- !!!! buy ACA at 0.1088 $ at 2023-03-16 22:35:09.479743, take profit at 0.1117 and stop loss at 0.108
  2023-03-16 22:37:53.061844 --- !!! on vend, trade result : 0
  2023-03-16 22:53:54.168967 --- FIN DU PROGRAMME (Live: 1) -- take_profit_ratio : 0.026, stop_loss_ratio : 0.008, candle_lenght_limite : 1.06
+ 2023-05-19 19:11:01.944885 --- DEBUT DU PROGRAMME (Live: 0) -- take_profit_ratio : 0.024, stop_loss_ratio : 0.008, candle_lenght_limite : 1.02
+ 2023-05-19 19:11:19.603596 --- FIN DU PROGRAMME (Live: 0) -- take_profit_ratio : 0.024, stop_loss_ratio : 0.008, candle_lenght_limite : 1.02
